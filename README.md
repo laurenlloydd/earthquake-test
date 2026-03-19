@@ -10,3 +10,4 @@ The data for the earthquake report comes from a USGS Earthquake Hazards Program 
 
 To run, use the run all command. 
 
+# earthquake-test
