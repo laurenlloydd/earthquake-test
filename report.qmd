@@ -1,0 +1,14 @@
+---
+title: "report"
+---
+
+```{r}
+load(here::here("data", "clean", "clean.RData"))
+knitr::kable(clean) 
+``` 
+
+
+```{r}
+
+```
+
